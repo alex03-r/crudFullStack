@@ -1,0 +1,14 @@
+C:\.net framework\Solution\back\MantenimientoReal\MantenimientoReal\bin\Debug\net6.0\Datos.deps.json
+C:\.net framework\Solution\back\MantenimientoReal\MantenimientoReal\bin\Debug\net6.0\Datos.runtimeconfig.json
+C:\.net framework\Solution\back\MantenimientoReal\MantenimientoReal\bin\Debug\net6.0\Datos.dll
+C:\.net framework\Solution\back\MantenimientoReal\MantenimientoReal\bin\Debug\net6.0\Datos.pdb
+C:\.net framework\Solution\back\MantenimientoReal\MantenimientoReal\obj\Debug\net6.0\Datos.csproj.AssemblyReference.cache
+C:\.net framework\Solution\back\MantenimientoReal\MantenimientoReal\obj\Debug\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net framework\Solution\back\MantenimientoReal\MantenimientoReal\obj\Debug\net6.0\Datos.AssemblyInfoInputs.cache
+C:\.net framework\Solution\back\MantenimientoReal\MantenimientoReal\obj\Debug\net6.0\Datos.AssemblyInfo.cs
+C:\.net framework\Solution\back\MantenimientoReal\MantenimientoReal\obj\Debug\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\.net framework\Solution\back\MantenimientoReal\MantenimientoReal\obj\Debug\net6.0\Datos.dll
+C:\.net framework\Solution\back\MantenimientoReal\MantenimientoReal\obj\Debug\net6.0\refint\Datos.dll
+C:\.net framework\Solution\back\MantenimientoReal\MantenimientoReal\obj\Debug\net6.0\Datos.pdb
+C:\.net framework\Solution\back\MantenimientoReal\MantenimientoReal\obj\Debug\net6.0\Datos.genruntimeconfig.cache
+C:\.net framework\Solution\back\MantenimientoReal\MantenimientoReal\obj\Debug\net6.0\ref\Datos.dll

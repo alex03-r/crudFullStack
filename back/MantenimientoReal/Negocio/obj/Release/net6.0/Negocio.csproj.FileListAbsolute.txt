@@ -1,0 +1,17 @@
+C:\.net framework\Solution\back\MantenimientoReal\Negocio\bin\Release\net6.0\Negocio.deps.json
+C:\.net framework\Solution\back\MantenimientoReal\Negocio\bin\Release\net6.0\Negocio.runtimeconfig.json
+C:\.net framework\Solution\back\MantenimientoReal\Negocio\bin\Release\net6.0\Negocio.dll
+C:\.net framework\Solution\back\MantenimientoReal\Negocio\bin\Release\net6.0\Negocio.pdb
+C:\.net framework\Solution\back\MantenimientoReal\Negocio\bin\Release\net6.0\Datos.dll
+C:\.net framework\Solution\back\MantenimientoReal\Negocio\bin\Release\net6.0\Datos.pdb
+C:\.net framework\Solution\back\MantenimientoReal\Negocio\obj\Release\net6.0\Negocio.csproj.AssemblyReference.cache
+C:\.net framework\Solution\back\MantenimientoReal\Negocio\obj\Release\net6.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net framework\Solution\back\MantenimientoReal\Negocio\obj\Release\net6.0\Negocio.AssemblyInfoInputs.cache
+C:\.net framework\Solution\back\MantenimientoReal\Negocio\obj\Release\net6.0\Negocio.AssemblyInfo.cs
+C:\.net framework\Solution\back\MantenimientoReal\Negocio\obj\Release\net6.0\Negocio.csproj.CoreCompileInputs.cache
+C:\.net framework\Solution\back\MantenimientoReal\Negocio\obj\Release\net6.0\Negocio.csproj.CopyComplete
+C:\.net framework\Solution\back\MantenimientoReal\Negocio\obj\Release\net6.0\Negocio.dll
+C:\.net framework\Solution\back\MantenimientoReal\Negocio\obj\Release\net6.0\refint\Negocio.dll
+C:\.net framework\Solution\back\MantenimientoReal\Negocio\obj\Release\net6.0\Negocio.pdb
+C:\.net framework\Solution\back\MantenimientoReal\Negocio\obj\Release\net6.0\Negocio.genruntimeconfig.cache
+C:\.net framework\Solution\back\MantenimientoReal\Negocio\obj\Release\net6.0\ref\Negocio.dll
